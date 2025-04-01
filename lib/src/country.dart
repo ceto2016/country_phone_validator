@@ -109,6 +109,7 @@ List<Country> countries = [
   Country("Iran", "IR", "+98", 10, 10),
   Country("Iraq", "IQ", "+964", 10, 10),
   Country("Ireland", "IE", "+353", 9, 9),
+  Country("Israel", "IL", "+972", 9, 9),
   Country("Italy", "IT", "+39", 9, 9),
   Country("Jamaica", "JM", "+1-876", 10, 10),
   Country("Japan", "JP", "+81", 10, 10),
