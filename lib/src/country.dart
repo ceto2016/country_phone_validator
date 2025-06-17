@@ -92,7 +92,7 @@ List<Country> countries = [
   Country("Gabon", "GA", "+241", 8, 8),
   Country("Gambia", "GM", "+220", 7, 7),
   Country("Georgia", "GE", "+995", 9, 9),
-  Country("Germany", "DE", "+49", 10, 10),
+  Country("Germany", "DE", "+49", 10, 11),
   Country("Ghana", "GH", "+233", 9, 9),
   Country("Greece", "GR", "+30", 10, 10),
   Country("Grenada", "GD", "+1-473", 10, 10),
