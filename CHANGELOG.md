@@ -1,3 +1,5 @@
+## 1.0.2
+- Fix Germany country code
 ## 1.0.1
 - Remove trash countries
 ## 1.0.0
